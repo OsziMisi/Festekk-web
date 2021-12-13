@@ -2,9 +2,8 @@
 Link:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Feladatok*
--$CSS$ Oroszlán Mihály
-~
--$HTML$ Riazáncev Csanád
-~
--$Képek + esztétikai munkák$ Molnár Bence
-~
+-CSS: Oroszlán Mihály
+
+-HTML: Riazáncev Csanád
+
+-Képek + esztétikai munkák: Molnár Bence
