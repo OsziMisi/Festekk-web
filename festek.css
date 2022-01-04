@@ -1,6 +1,14 @@
 body{
     color: #fff;
+    background-image: url(Barkacs-hatter-1160x633.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
 }
+
 #kepek{
     width: 100px;
     height: 100px;
@@ -16,4 +24,8 @@ p{
     text-align: center;
 }
 
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%
 }
