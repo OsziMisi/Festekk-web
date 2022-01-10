@@ -23,9 +23,10 @@ p{
     top: 0px;
     width: 100%
 }
-img{
+img {
     background-color: white;
     opacity: 1,0;
+
 }
 .Navigáció {
     overflow: hidden;
@@ -41,11 +42,11 @@ img{
     font-size: 17px;
 }
 
-  .Navigáció a:hover {
-    background-color: #ddd;
-    color: black;
+.Navigáció a:hover {
+   background-color: #ddd;
+   color: black;
 }
 .Navigáció a.aktív {
-    background-color: #04AA6D;
-    color: white;
-  }
+   background-color: #04AA6D;
+   color: white;
+}
