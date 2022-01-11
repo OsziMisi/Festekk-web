@@ -30,6 +30,7 @@ img {
 .Navigáció {
     overflow: hidden;
     background-color: #333;
+    border-radius: 30px;
 }
 
 .Navigáció a {
@@ -39,6 +40,7 @@ img {
     padding: 14px 20px;
     text-decoration: none;
     font-size: 20px;
+    border-radius: 30px;
 }
 
 .Navigáció a:hover {
@@ -48,4 +50,5 @@ img {
 .Navigáció a.aktív {
    background-color: #17361e;
    color: white;
+   border-radius: 25px;
 }
