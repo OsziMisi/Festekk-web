@@ -30,6 +30,7 @@ img {
 .Navigáció {
     overflow: hidden;
     background-color: #333;
+    border-radius: 30px;
 }
 
 .Navigáció a {
@@ -48,4 +49,5 @@ img {
 .Navigáció a.aktív {
    background-color: #17361e;
    color: white;
+   border-radius: 25px;
 }
