@@ -1,12 +1,6 @@
 body{
-    color: #fff;
-    background-image: url(Barkacs-hatter-1160x633.jpg);
+    background-image: url('1985x1320-px-tools-workshops-1399389-wallhere.com.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    width: 100%;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
 }
 
 #kepek{
@@ -28,4 +22,31 @@ p{
     position: fixed;
     top: 0px;
     width: 100%
+}
+img {
+    background-color: white;
+    opacity: 1,0;
+
+}
+.Navigáció {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.Navigáció a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Navigáció a:hover {
+   background-color: #ddd;
+   color: black;
+}
+.Navigáció a.aktív {
+   background-color: #fd45d5;
+   color: white;
 }
