@@ -1,13 +1,6 @@
 body{
     background-image: url('1985x1320-px-tools-workshops-1399389-wallhere.com.jpg');
     background-repeat: no-repeat;
-    height: flex;
-    display: center;
-    align-items: center;
-    color: white
-}
-div{
-    color: white;
 }
 #kepek{
     width: 100px;
@@ -37,7 +30,7 @@ img {
 .Navigáció {
     overflow: hidden;
     background-color: #333;
-    border-radius: 60px;
+    border-radius: 30px;
 }
 
 .Navigáció a {
@@ -47,26 +40,15 @@ img {
     padding: 14px 20px;
     text-decoration: none;
     font-size: 20px;
-    border-radius: 25px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    border-radius: 30px;
 }
 
 .Navigáció a:hover {
    background-color: #ddd;
    color: black;
-   
 }
 .Navigáció a.aktív {
    background-color: #17361e;
    color: white;
-   border-radius: 22px;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-{
-    
+   border-radius: 25px;
 }
