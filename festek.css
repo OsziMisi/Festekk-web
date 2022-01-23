@@ -4,8 +4,11 @@ body{
     height: flex;
     display: center;
     align-items: center;
+    color: white
 }
-
+div{
+    color: white;
+}
 #kepek{
     width: 100px;
     height: 100px;
