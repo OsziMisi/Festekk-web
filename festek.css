@@ -62,11 +62,8 @@ img {
    border-radius: 22px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-{
-    box-sizing: border-box;
+#tablazat {
+box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-{
-    
 }
