@@ -13,9 +13,6 @@ h1{
 h3{
     text-align: center;
 }
-p{
-    text-align: center;
-}
 
 #navbar {
     position: fixed;
@@ -50,4 +47,14 @@ img {
    background-color: #17361e;
    color: white;
    border-radius: 25px;
+}
+
+#szerszamok {
+
+}
+
+#szerszamok div {
+    display: flex;
+    flex-direction: row;
+    color: white;
 }

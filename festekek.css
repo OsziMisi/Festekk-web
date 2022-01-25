@@ -51,3 +51,12 @@ img {
    color: white;
    border-radius: 25px;
 }
+
+.colors {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.colors div {
+    color: white;
+}
