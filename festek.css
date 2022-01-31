@@ -20,9 +20,6 @@ h1{
 h3{
     text-align: center;
 }
-p{
-    text-align: center;
-}
 
 #navbar {
     position: fixed;
@@ -66,4 +63,25 @@ img {
 box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
+}
+#cella {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#cella div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bukkkep{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    align-items: center;
+}       
+body{
+    color: white;
 }
