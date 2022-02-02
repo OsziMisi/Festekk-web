@@ -69,41 +69,55 @@ img {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-
+    background-color: rgb(87, 85, 85)
   }
 .keret2 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
+    background-color: rgb(87, 85, 85)
     
   }
 .keret3 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
+    background-color: rgb(87, 85, 85)
+    
     
 }
 .keret4 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    
+    background-color: rgb(87, 85, 85)
 }
 .keret5 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
+    background-color: rgb(87, 85, 85)
     
 }
 .keret6 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
+    background-color: rgb(87, 85, 85)
     
 }
 .keret7 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(87, 85, 85)
+}
+
+.festekkep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+
 }
