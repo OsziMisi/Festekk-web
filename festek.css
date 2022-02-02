@@ -59,10 +59,16 @@ img {
    border-radius: 22px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+tr {
+    background-color: white;
+
+}
 #tablazat {
 box-sizing: border-box;
     margin: 0;
     padding: 0;
+    opacity: 0.5;
     
 }
 #cella {
@@ -76,12 +82,16 @@ box-sizing: border-box;
     align-items: center;
 }
 
-.kepeks{
+.kepek{
     width: 200px;
     height: 200px;
     border-radius: 100%;
     align-items: center;
+    text-align: center;
 }       
 body{
     color: white;
+}
+.szoveg{
+    text-align: center;
 }
