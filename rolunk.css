@@ -72,3 +72,9 @@ img {
     height: 200px;
     border-radius: 100%;
 }
+#kepek{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    text-align: justify;
+}
