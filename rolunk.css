@@ -72,9 +72,17 @@ img {
     height: 200px;
     border-radius: 100%;
 }
-#kepek{
-    margin: auto;
-    height: 200px;
-    width: 200px;
+.kepek{
+    height: 140px;
+    width: 140px;
     text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color:  rgb(0, 0, 0);
 }
+.szöveg{
+    color: rgb(247, 51, 51);
+} /* Bence szinprobalkozasi feladata*/
+
+
