@@ -83,6 +83,30 @@ img {
 }
 .szöveg{
     color: rgb(247, 51, 51);
-} /* Bence szinprobalkozasi feladata*/
+    width: 11em; 
+    border: 1px solid white;
+    word-wrap: break-word;
+    background-color: rgb(87, 85, 85);
+    margin-left: auto;
+    margin-right: auto;
+    
+} 
+/* Bence szinprobalkozasi feladata*/
+
+.p{
 
 
+}
+td {
+    background-color: white;
+}
+# {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#cella div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
