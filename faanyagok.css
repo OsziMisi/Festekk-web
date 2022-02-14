@@ -44,6 +44,8 @@ img {
     padding: 14px 20px;
     text-decoration: none;
     font-size: 20px;
+    border-radius: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 .Navigáció a:hover {
@@ -114,4 +116,5 @@ img {
     width: 200px;
     height: 200px;
     border-radius: 100%;
+    color: white;
 }

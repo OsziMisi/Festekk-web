@@ -3,8 +3,11 @@ Link:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Feladatok*
 
--CSS: Oroszlán Mihály
+- CSS: Oroszlán Mihály
 
--HTML: Riazáncev Csanád
+- HTML: Riazáncev Csanád
 
--Képek + esztétikai munkák: Molnár Bence
+- Képek + Esztétikai Munkák: Molnár Bence
+ 
+ *Oldal linkje:*
+ https://oszimisi.github.io/Festekk-web/index.html
