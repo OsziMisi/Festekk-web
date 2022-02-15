@@ -53,3 +53,17 @@ img {
    color: white;
    border-radius: 25px;
 }
+.cella {
+    text-align: center;
+}
+.tortenet {
+    font-weight: bold;
+}
+.tartalom {
+    font-weight: bold;
+    font-size: large;
+}
+.kep{
+    max-width: 400px;
+    max-height: 400px;
+}
