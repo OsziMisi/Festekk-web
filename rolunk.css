@@ -75,9 +75,13 @@ body{
     font-size: 46px;
     font-weight: 600;
     margin: auto;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .szemely .desc {
     font-size: 22px;
     font-weight: 500;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }

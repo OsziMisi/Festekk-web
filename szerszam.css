@@ -68,4 +68,6 @@ p {
     color: rgb(44, 44, 44);
     font-size: 32px;
     font-weight: 600;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }

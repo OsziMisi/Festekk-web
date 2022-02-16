@@ -15,6 +15,8 @@ h3{
 }
 p{
     text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 #navbar {
@@ -58,12 +60,15 @@ img {
 }
 .tortenet {
     font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
 }
 .tartalom {
     font-weight: bold;
     font-size: large;
+
 }
 .kep{
     max-width: 400px;
-    max-height: 400px;
+    max-height: 300px;
 }
