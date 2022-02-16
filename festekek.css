@@ -69,20 +69,23 @@ img {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
   }
 .keret2 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
     
   }
 .keret3 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
     
     
 }
@@ -90,20 +93,23 @@ img {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
 }
 .keret5 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
     
 }
 .keret6 {
     width: 11em; 
     border: 1px solid white;
     word-wrap: break-word;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
     
 }
 .keret7 {
@@ -111,7 +117,8 @@ img {
     border: 1px solid white;
     word-wrap: break-word;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(87, 85, 85)
+    background-color: rgb(87, 85, 85);
+    border-radius: 25px;
 }
 
 .festekkep{
